@@ -7,3 +7,5 @@
 ## expected outcome ##
  - Tool impact
  - Data impact
+### citation ###
+ieee8023/ covid-chestxray-dataset
